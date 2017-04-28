@@ -1,0 +1,21 @@
+			== BIODATA ==
+
+A. Data Diri
+
+Nama			: Angelina Dinar Puteri Dewi
+NIM			: 1401091015
+Tempat, tanggal lahir	: Ngawi, 08 September 1995
+Jenis Kelamin		: Perempuan
+Agama			: Islam
+Alamat			: Jl. Prof. Dr Hamka No. 169 Padang, Sumatera Barat
+Telp			: 081275571314
+Email			: angelinadpd@gmail.com
+
+
+B. Riwayat Pendidikan
+
+1. SD N 05 Air Tawar Barat Padang
+2. SD N Pangkur 1, Ngawi
+3. SMP Pembangunan Laboratorium UNP Padang
+4. SMA Pembangunan Laboratorium UNP Padang
+5. Politeknik Negeri Padang
